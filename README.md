@@ -14,13 +14,13 @@ Files included:
 
 # Installation
 clone down repo:
-> git clone https://github.com/jakeelkins/rl-attitude-control.git
-
+> git clone https://github.com/shroglck/Rl-for-satellite-control.git
 
 # Usage
 See the two IPython notebooks  included on how to use the envs.
 
 #Refernces
+
 @inproceedings{inproceedings,
 author = {Elkins, Jacob and Sood, Rohan and Rumpf, Clemens},
 year = {2020},
