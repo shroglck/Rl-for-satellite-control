@@ -29,3 +29,13 @@ pages = {},
 title = {Adaptive Continuous Control of Spacecraft Attitude Using Deep Reinforcement Learning}
 }
 '''
+ ```
+@inproceedings{Combining:WACV:2020,
+  title = {Combining Compositional Models and Deep Networks For Robust Object Classification under Occlusion},
+  author = {Kortylewski, Adam and Liu, Qing and Wang, Huiyu and Zhang, Zhishuai and Yuille, Alan},
+  booktitle = {IEEE Winter Conference on Applications of Computer Vision (WACV)},
+  month = mar,
+  year = {2020},
+  month_numeric = {3}
+}
+```
