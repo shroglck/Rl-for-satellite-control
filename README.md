@@ -19,8 +19,8 @@ clone down repo:
 # Usage
 See the two IPython notebooks  included on how to use the envs.
 
-#Refernces
-
+# Refernces
+'''
 @inproceedings{inproceedings,
 author = {Elkins, Jacob and Sood, Rohan and Rumpf, Clemens},
 year = {2020},
@@ -28,3 +28,4 @@ month = {08},
 pages = {},
 title = {Adaptive Continuous Control of Spacecraft Attitude Using Deep Reinforcement Learning}
 }
+'''
